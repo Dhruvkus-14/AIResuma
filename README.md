@@ -96,7 +96,7 @@ I built AIResuma to help freshers and job seekers like myself get AI-powered res
 ![Output](/screenshots/3.jpg)
 ![Output](/screenshots/4.jpg)
 ![Output](/screenshots/5.jpg)
-
+![Output](/screenshots/6.jpg)
 
 ## 📄 License
 
