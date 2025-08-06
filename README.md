@@ -91,11 +91,11 @@ npm run build
 I built AIResuma to help freshers and job seekers like myself get AI-powered resume feedback in a private, fast, and backend-free environment — while learning modern tech like Zustand and serverless APIs.
 
 ## 📸 Screenshots
-![Output](/images/1.jpg)
-![Output](/images/2.jpg)
-![Output](/images/3.jpg)
-![Output](/images/4.jpg)
-![Output](/images/5.jpg)
+![Output](/screenshots/1.jpg)
+![Output](/screenshots/2.jpg)
+![Output](/screenshots/3.jpg)
+![Output](/screenshots/4.jpg)
+![Output](/screenshots/5.jpg)
 
 
 ## 📄 License
